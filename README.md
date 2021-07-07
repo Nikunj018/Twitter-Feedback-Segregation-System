@@ -83,6 +83,6 @@ I would like to thank my fellow members who helped with this project's growth an
 
  Below you would find their Github Profiles:
  - [Vaspar](https://github.com/Vaspar-a)
- - [Nikunj](https://github.com/Nikunj018)
+ - [Rishabh](https://github.com/Rain1213)
  - [Vidit631](https://github.com/Vidit631)
  - [Aliabbas](https://github.com/Aliabbas78692)
